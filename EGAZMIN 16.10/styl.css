@@ -1,0 +1,53 @@
+*{
+    font-family: sans-serif;
+}
+
+header{
+    size: 70%;
+    text-align:center;
+    background-color:paleturquoise;
+    border-radius: 20px;
+    width: 100px;
+    padding:2%;
+
+}
+
+main{
+    size: 70%;
+    text-align:center
+}
+
+aside{
+    size: 25%;
+    width:700px;
+    line-height: 2;
+}
+
+footer{
+    padding-top: 10px;
+}
+
+Section{
+   margin-top: 10px;
+   margin: 10px;
+    margin-bottom: 10px;
+    margin: 50px;
+   width: 400px;
+   border: 1px  dotted,dimgray;
+   overflow: hidden;
+
+}
+
+.miniatury{
+width: 200px;
+padding: 10px;
+opacity: 0,8;
+}
+
+a:hover{
+opacity: 1;
+}
+
+img{
+    
+}
